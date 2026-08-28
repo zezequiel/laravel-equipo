@@ -1,5 +1,4 @@
 # laravel-equipo
-# Laravel Equipo
 
 Skill para Claude Code que define una forma segura y consistente de trabajar en proyectos Laravel existentes, especialmente en equipos que mantienen aplicaciones con distintas versiones de PHP, Laravel y arquitecturas.
 
