@@ -1,6 +1,7 @@
 ---
 name: laravel-equipo
 description: Cómo trabaja el equipo sobre proyectos Laravel — reconocimiento del repo antes de tocar nada, buenas prácticas durante la implementación y checklist de cierre. Usala apenas trabajes sobre cualquier proyecto Laravel, antes de crear o modificar controladores, servicios, modelos, migraciones, rutas, vistas Blade, comandos artisan, config o tests, y siempre que la tarea involucre la base de datos, envío de emails, jobs, dependencias nuevas o ejecutar comandos artisan. Aplicala también cuando el pedido parezca chico ("agregá un campo", "arreglá esta vista", "sumá un endpoint"), porque define qué sintaxis de PHP se puede usar en este proyecto, qué no hay que ejecutar y cómo se entrega el cambio.
+license: MIT
 ---
 
 # Cómo trabajamos en Laravel
